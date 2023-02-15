@@ -1,2 +1,2 @@
 # debarun-cosmos.github.io
-THEME: CAYMAN
+theme: minima
